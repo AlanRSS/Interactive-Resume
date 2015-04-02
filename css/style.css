@@ -1,7 +1,11 @@
 * {
+
   padding:0;
   margin:0;
   font-family: 'Roboto', sans-serif;
+}
+#main{
+  background-color: #7C1600;
 }
 
 .clearfix {
@@ -15,7 +19,7 @@
 
 h1 {
   font-size: 40px;
-  color: #F5A623;
+  color: #FFFFFF;
   line-height: 48px;
   display: inline;
 }
@@ -81,8 +85,8 @@ a {
 
 .welcome-message {
   font-style: italic;
-  font-size: 18px;
-  color: #F3F3F3;
+  font-size: 24px;
+  color: #000000;
   line-height: 28px;
 }
 
